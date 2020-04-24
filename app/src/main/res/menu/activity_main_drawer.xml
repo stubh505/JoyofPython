@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/list_home_icon"
+            android:title="@string/home" />
+
+    </group>
+
+    <item android:title="@string/joc">
+        <menu>
+            <item
+                android:id="@+id/nav_all_videos"
+                android:icon="@drawable/list_video_icon"
+                android:title="@string/title_activity_all_videos" />
+            <item
+                android:id="@+id/nav_week_wise"
+                android:icon="@drawable/list_week_icon"
+                android:title="@string/title_activity_week_wise" />
+            <item
+                android:id="@+id/nav_chapter_wise"
+                android:icon="@drawable/list_chapter_icon"
+                android:title="@string/title_activity_chapter_wise" />
+        </menu>
+    </item>
+
+    <item android:title="@string/pds">
+        <menu>
+            <item
+                android:id="@+id/nav_all_videos_pds"
+                android:icon="@drawable/list_video_icon"
+                android:title="@string/title_activity_all_videos" />
+            <item
+                android:id="@+id/nav_chapter_wise_pds"
+                android:icon="@drawable/list_chapter_icon"
+                android:title="@string/title_activity_chapter_wise" />
+            <item
+                android:id="@+id/nav_week_wise_pds"
+                android:icon="@drawable/list_week_icon"
+                android:title="@string/title_activity_link" />
+        </menu>
+    </item>
+
+    <item android:title="@string/info">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/list_info_icon"
+                android:title="@string/about_title" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+</menu>

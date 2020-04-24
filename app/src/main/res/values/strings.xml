@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Joy of Python</string>
+    <string name="about_title">About</string>
+    <string name="about">This app is the video catalogue of NPTEL course "Joy of Computing using Python". This app has been made solely because of the fact that the website is too slow to load and takes and eternity to navigate through. App made by kauStubh.</string>
+    <string name="data_corrupted_warn">The data of this app appears to be corrupted. Press OK to fix the issue and restart the app. Keep your INTERNET connection turned ON, otherwise it would not be able to fix itself.</string>
+    <string name="data_corrupted_warning">The data of this app appears to be corrupted. Press OK to fix the issue and then restart the app. Keep your INTERNET connection turned ON, otherwise it would not be able to fix itself.</string>
+    <string name="data_corrupted_title">Data Corrupted</string>
+    <string name="home">Home</string>
+    <string name="info">Information</string>
+    <string name="joc">Joy of Computing</string>
+    <string name="link_1">Python code for n queens</string>
+    <string name="link_2">n queens, all solutions: Python code</string>
+    <string name="link_3">Search trees: Python code</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Joy of Python</string>
+    <string name="nav_header_subtitle">NPTEL</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="pds">Data Structure</string>
+    <string name="no_sharing">Sharing not allowed.</string>
+    <string name="share">Share</string>
+    <string name="title_activity_all_videos">All Videos</string>
+    <string name="title_activity_chapter_wise">Chapter Wise Videos</string>
+    <string name="title_activity_chapter">Chapter</string>
+    <string name="title_activity_week_wise">Week Wise Videos</string>
+    <string name="title_activity_week">Week</string>
+    <string name="title_activity_link">Python Prog Links</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="visit_web_desc">Leave this app and visit the webpage itself</string>
+    <string name="visit_chapter_desc">Watch the videos grouped chapter wise</string>
+    <string name="visit_week_desc">Watch the videos grouped week wise</string>
+    <string name="visit_link_desc">Links of provided python programs</string>
+    <string name="visit_all_desc">Watch the all videos listed together</string>
+    <string name="why_settings">Why do you want a settings in this app?</string>
+</resources>
